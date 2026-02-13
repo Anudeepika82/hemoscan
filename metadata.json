@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Hemoscan AI Marketing Suite",
+  "description": "A sophisticated platform integrating AI-driven anemia detection with an AI marketing mindset to optimize healthcare delivery and outreach.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
